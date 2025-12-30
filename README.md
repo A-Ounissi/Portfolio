@@ -31,8 +31,8 @@ devportfolio/
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/ahmed-ounissi/devportfolio.git
-    cd devportfolio
+    git clone https://github.com/ahmed-ounissi/Portfolio.git
+    cd Portfolio
     ```
 
 2.  **Install dependencies:**
