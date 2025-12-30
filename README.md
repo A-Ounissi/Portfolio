@@ -1,3 +1,5 @@
+![Intro Image](https://raw.githubusercontent.com/A-Ounissi/Portfolio/main/public/intro.png)
+
 # Ahmed Ounissi - Developer Portfolio
 
 The source code for my personal portfolio website, designed to showcase my skills in IT Support, Software Engineering, and Automation. Built with a focus on performance, cleanliness, and modern web standards.
